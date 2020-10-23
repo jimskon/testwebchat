@@ -1,3 +1,4 @@
+// A program by Jim Skon
 var id;
 
 $(document).ready(function () {
