@@ -1,3 +1,5 @@
+// A program by Jim Skon
+// Fall 2020
 var id;
 
 $(document).ready(function () {
